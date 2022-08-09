@@ -4,19 +4,19 @@ Como atualizar suas dependencias usando yarn e npm
 
 ## NPM 📦
 
-**npm outdated **  - verifica dependências que possuem atualização
+**npm outdated**  - verifica dependências que possuem atualização
 
-**npm update ** - atualiza dependências
+**npm update** - atualiza dependências
 
-**npm install ** - instala dependências
+**npm install** - instala dependências
 
 ## NPM utilizando o npm-check-updates 📦
 
-**npm install ** -g npm-check-updates - instala o npm-check-updates de forma global
+**npm install** -g npm-check-updates - instala o npm-check-updates de forma global
 
-**npm-check-updates ** - verifica dependências que possuem atualização
+**npm-check-updates** - verifica dependências que possuem atualização
 
-**ncu -u ** - atualiza dependências
+**ncu -u** - atualiza dependências
 
 **npm install** - instala dependências
 
