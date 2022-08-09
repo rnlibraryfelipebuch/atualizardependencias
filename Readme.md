@@ -3,7 +3,7 @@
 Como atualizar suas dependencias usando yarn e npm
 
 ## NPM 📦
-
+```diff
 **npm outdated**  - verifica dependências que possuem atualização
 
 **npm update** - atualiza dependências
