@@ -29,3 +29,4 @@ Como atualizar suas dependencias usando yarn e npm
 **yarn upgrade-interactive --latest** - atualiza dependências selecionadas
 
 **yarn upgrade --latest** - atualiza dependências
+```
